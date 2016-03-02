@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+It will start to monitor the folder. Init is needed in order to prepare all of the necessary files.
